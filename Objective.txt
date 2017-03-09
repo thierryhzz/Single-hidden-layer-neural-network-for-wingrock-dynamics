@@ -1,0 +1,6 @@
+Using the available dataset from the wingrock problem we will create a single hidden layer neural network for wingrock dynamics. Choose the number of hidden neurons to be 10, use the sigmoidal activation function. Perform the following:
+1.	Write a script to program the neural network. Initialize the weight randomly
+2.	Implement backpropoagation algorithm
+3.	Train on the wingrock datasets and validate the output of the model
+4.	Compare the performance of GP and shallow NN. How does changing the number of hidden neurons affect the performance (reducing and increasing with increments of 2 from 4 to 16)? 
+5.	Does the convergence depend on initial weights for the default case of 10 hidden neurons?
